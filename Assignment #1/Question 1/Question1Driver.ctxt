@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Question1Driver
+comment0.text=\n\ Driver\ for\ Sorting\ class.\ Creates\ an\ Integer\ array\ using\ an\ initializer\ list,\ \n\ and\ two\ additional\ random\ sets\ of\ 10\ and\ 20\ integers.\n\n\ @author\ Michael\ Kuby\n\ @version\ Thursday\ January\ 13,\ 2022\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

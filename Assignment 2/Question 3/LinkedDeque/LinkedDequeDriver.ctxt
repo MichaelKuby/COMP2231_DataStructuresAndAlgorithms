@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LinkedDequeDriver
+comment0.text=\n\ LinkedDequeDriver\ showcases\ the\ LinkedDeque<T>\ class\ and\ it's\ methods.\ We\ create\ a\ moderate\ sized\ array,\ and\n\ add\ elements\ to\ both\ the\ front\ and\ the\ rear,\ showcasing\ each\ of\ the\ features\ and\ operations\ of\ the\ \n\ deque\ as\ we\ go.\n\n\ @author\ Michael\ Kuby\n\ @version\ January\ 19,\ 2022\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
