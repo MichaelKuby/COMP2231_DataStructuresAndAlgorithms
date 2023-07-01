@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment 5.iml" filepath="$PROJECT_DIR$/.idea/Assignment 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MichaelKuby_COMP2231_Module5_Assignment5_Submission/Question 1 - Heap Sort/Question 1 - Heap Sort.iml" filepath="$PROJECT_DIR$/MichaelKuby_COMP2231_Module5_Assignment5_Submission/Question 1 - Heap Sort/Question 1 - Heap Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question 1 - Heap Sort/Question 1 - Heap Sort1.iml" filepath="$PROJECT_DIR$/Question 1 - Heap Sort/Question 1 - Heap Sort1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question 2 - Graph/Question 2 - Graph.iml" filepath="$PROJECT_DIR$/Question 2 - Graph/Question 2 - Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MichaelKuby_COMP2231_Module5_Assignment5_Submission/Question 2 - Graph/Question 2 - Graph1.iml" filepath="$PROJECT_DIR$/MichaelKuby_COMP2231_Module5_Assignment5_Submission/Question 2 - Graph/Question 2 - Graph1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question 3 - Hashing/Question 3 - Hashing.iml" filepath="$PROJECT_DIR$/Question 3 - Hashing/Question 3 - Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MichaelKuby_COMP2231_Module5_Assignment5_Submission/Question 3 - Hashing/Question 3 - Hashing1.iml" filepath="$PROJECT_DIR$/MichaelKuby_COMP2231_Module5_Assignment5_Submission/Question 3 - Hashing/Question 3 - Hashing1.iml" />
+    </modules>
+  </component>
+</project>
